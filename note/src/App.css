@@ -1,0 +1,36 @@
+.nav {
+  color: #0b0337
+}
+
+h1 {
+  margin-bottom: 1rem;
+  color: #3da7ca;
+}
+
+
+.allCard {
+  margin-top: 60px;
+  width: 30%;
+  padding: 0.7rem;
+  border: #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+
+}
+
+
+.Button {
+  padding: "0.6rem 1.2rem";
+  background: "#2563eb";
+  color: "white";
+  border: "none";
+  border-Radius: "6px";
+  cursor: "pointer";
+  width: 20%;
+  font-Size: "1rem";
+}
+
+.submit {
+  height: 50px;
+  width: 70px;
+}
